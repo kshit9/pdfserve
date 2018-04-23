@@ -6,7 +6,7 @@
     "ejs": "~2.3.4",
     "morgan": "~1.6.1"
   }
-"scripts": {
-    "start": "node your-script.js"
-}
+  "scripts": {
+    "start": "node app.js"
+  }
 }
